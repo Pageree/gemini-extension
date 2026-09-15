@@ -1,0 +1,10 @@
+{
+  "name": "pageree",
+  "version": "1.0.0",
+  "description": "Build, preview, publish, and improve landing pages with hosting, lead capture, and analytics through Pageree.",
+  "mcpServers": {
+    "pageree": {
+      "httpUrl": "https://mcp.pageree.com/"
+    }
+  }
+}
